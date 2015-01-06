@@ -1,0 +1,17 @@
+.metadata
+.directory
+.recommenders
+
+/RecycleView/.DS_Store
+/RecycleView/bin
+/RecycleView/bin/*
+/RecycleView/gen/*
+/RecycleView/.settings/*
+
+/android-support-v7-cardview/.DS_Store
+/android-support-v7-cardview/bin
+/android-support-v7-cardview/bin/*
+/android-support-v7-cardview/gen/*
+/android-support-v7-cardview/.settings/*
+
+

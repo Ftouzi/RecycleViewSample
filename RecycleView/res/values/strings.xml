@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecycleViewSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="contact_text">Contact List</string>
+    <string name="name_text">Name</string>
+    <string name="firstname_text">First Name</string>
+    <string name="email_text">Email</string>
+     <string name="address_text">Address</string>
+    
+
+</resources>
