@@ -1,0 +1,1 @@
+Android sample RecycleView application 
